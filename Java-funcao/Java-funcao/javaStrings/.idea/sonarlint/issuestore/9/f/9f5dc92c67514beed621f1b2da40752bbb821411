@@ -1,0 +1,20 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õ¬»éşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(òÍªè
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“²£œ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™Úİ‘şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(şıı¤úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïÒåì
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áèÅä
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûøÈº
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼¸¾ô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ü·´éşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³ïå‰
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(õîØùÿÿÿÿ
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(÷µ«±8ÖÇÀ˜‚0
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(Ö‚ä8ÖÇÀ˜‚0
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Ëÿö¢úÿÿÿÿ8 „Â˜‚0
+J
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
